@@ -1,4 +1,7 @@
 <h1 align="center">Contacts App</h1>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/68344264/185988061-e148ace3-759e-41f4-a849-6d1ac3f85745.png" width="80%" />
+</p>
 <h2>Installing</h2>
 <p>Preliminary requirements:</p>
 <ul>
