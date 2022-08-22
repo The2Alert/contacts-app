@@ -34,7 +34,7 @@
     <li><code>PORT</code> - Server port listening. Default: 80.</li>
     <li><code>DATABASE_HOST</code> - Database host. Default: localhost.</li>
     <li><code>DATABASE_USER</code> - Database user. Default: root.</li>
-    <li><code>DATABASE_PASSWORD</code> - Database password. Default: &lt;empty&gt;.</li>
+    <li><code>DATABASE_PASSWORD</code> - Database password. Default: qwerty123.</li>
     <li><code>DATABASE_BASE</code> - Database base. Default: contacts-app.</li>
 </ul>
 <p><a href="https://www.npmjs.com/package/dotenv">Dotenv</a> support is present!</p>
@@ -66,7 +66,7 @@
 <p>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img src="https://img.shields.io/badge/mobx-%23FF9955.svg?&style=for-the-badge&logo=mobx&logoColor=black" />
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
